@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/3NHnxd8w/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
-
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamDevil05&theme=tokyonight&hide_border=false" width="48%" /><img src="https://github-readme-stats.vercel.app/api?username=TeamDevil05&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
 </p>
