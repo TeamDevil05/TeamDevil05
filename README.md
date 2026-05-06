@@ -20,13 +20,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamDevil05&theme=tokyonight&hide_border=false" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=TeamDevil05&show_icons=true&theme=neon&border_radius=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeamDevil05&show_icons=true&theme=neon&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamDevil05&theme=tokyonight&hide_border=false" width="48%" /><img src="https://github-readme-stats.vercel.app/api?username=TeamDevil05&show_icons=true&theme=neon&border_radius=10" width="48%" />
 </p>
 
 <details>
