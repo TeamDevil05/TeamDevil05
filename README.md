@@ -26,7 +26,7 @@
 <details>
 <summary><b>▼ SUPPORT</b></summary>
 <br>
-<a href="https://t.me/AIpha_Wolrd">
+<a href="https://t.me/AIpha_World">
   <img src="https://img.shields.io/badge/Support-AIpha_Wolrd-blue?style=flat&logo=telegram" />
 </a>
 </details>
