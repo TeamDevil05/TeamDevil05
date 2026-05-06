@@ -24,10 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TeamDevil05&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://i.postimg.cc/3NHnxd8w/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
 <details>
 <summary><b>▼ SUPPORT</b></summary>
 <br>
