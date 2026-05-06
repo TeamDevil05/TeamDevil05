@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=🚩+जय+बजरंग+बली+🚩;🔥+Welcome+To+Team+Alpha+Bots;⚡+Fast+%7C+Secure+%7C+Powerful;👑+Developer+%3A+Anish+Kumar;💻+Coding+Is+My+Passion;🚀+Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=🚩+जय+बजरंग+बली+🚩" />
 </p>
 
 <p align="center">
@@ -12,11 +12,6 @@
 
 <p align="center">
   <img src="https://files.catbox.moe/g6e3cg.jpg" width="450" style="border-radius: 15px; border: 2px solid #58a6ff;" />
-</p>
-
-<!-- 🔥 CUSTOM PROFILE CARD (ADDED SECTION) -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TeamDevil05&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=FFD700&custom_title=ALPHA%20BABY&include_all_commits=true" width="80%" />
 </p>
 
 <p align="center">
