@@ -19,10 +19,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamDevil05&theme=tokyonight&hide_border=false" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=TeamDevil05&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamDevil05&theme=tokyonight&hide_border=false" width="48%" /><img src="https://github-readme-stats.vercel.app/api?username=TeamDevil05&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
 </p>
+
 
 <details>
 <summary><b>▼ SUPPORT</b></summary>
