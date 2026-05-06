@@ -18,14 +18,15 @@
   <img src="https://i.postimg.cc/3NHnxd8w/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 <h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeamDevil05&show_icons=true&theme=neon&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamDevil05&theme=tokyonight&hide_border=false" width="48%" />
   
-  <img src="https://i.postimg.cc/gJY3S5Kt/1000451352.jpg" width="48%" style="border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TeamDevil05&show_icons=true&theme=neon&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeamDevil05&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TeamDevil05&show_icons=true&theme=neon&count_private=true&hide_border=true" />
 </p>
 
 <details>
