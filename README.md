@@ -7,14 +7,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&color=FFA500&center=true&vCenter=true&width=500&lines=📍+FROM+BIHAR,+INDIA+📍" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&color=FFFFFF&center=true&vCenter=true&width=500&lines=🚀+Always+Ready+to+Help+🚀" />
-</p>
-
 <hr>
 
 <h1 align="center"><b>Tᴇᴀᴍ Aʟᴘʜᴀ Bᴏᴛs</b></h1>
