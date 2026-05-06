@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=500&color=800080&center=true&vCenter=true&width=500&lines=🔥+💻+POWERED+BY+ANISH+KUMAR+💻+🔥" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=500&color=800080&center=true&vCenter=true&width=500&lines=🔥+💻+POWERED+BY+Monu+Gupta+💻+🔥" />
 </p>
 <p align="center">
   <img src="https://i.postimg.cc/3NHnxd8w/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
