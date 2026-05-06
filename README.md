@@ -22,7 +22,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamDevil05&theme=tokyonight&hide_border=false" width="48%" /><img src="https://github-readme-stats.vercel.app/api?username=TeamDevil05&show_icons=true&theme=neon&border_radius=10" width="48%" />
 </p>
-
+<p align="center">
+  <img src="https://i.postimg.cc/3NHnxd8w/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 <details>
 <summary><b>▼ SUPPORT</b></summary>
 <br>
@@ -30,6 +32,9 @@
   <img src="https://img.shields.io/badge/Support-AIpha_World-blue?style=flat&logo=telegram" />
 </a>
 </details>
+<p align="center">
+  <img src="https://i.postimg.cc/3NHnxd8w/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 <details>
 <summary><b>▼ CONTACT ME</b></summary>
 <br>
@@ -37,4 +42,6 @@
   <img src="https://img.shields.io/badge/Contact-AIpha_Monu-red?style=flat&logo=telegram" />
 </a>
 </details>
-
+<p align="center">
+  <img src="https://i.postimg.cc/3NHnxd8w/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
